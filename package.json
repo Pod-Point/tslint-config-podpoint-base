@@ -1,11 +1,15 @@
 {
-  "name": "tslint-config-podpoint-base",
+  "name": "@pod-point/tslint-config-podpoint-base",
   "version": "1.0.0",
   "description": "The base configuration for TSLint, to be included in every TypeScript project.",
   "main": "tslint.json",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Pod-Point/tslint-config-podpoint-base.git"
+  },
+  "author": "POD Point Software Team <software@pod-point.com>",
+  "publishConfig": {
+    "access": "public"
   },
   "license": "MIT",
   "bugs": {
