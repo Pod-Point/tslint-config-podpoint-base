@@ -1,6 +1,6 @@
 {
   "name": "@pod-point/tslint-config-podpoint-base",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The base configuration for TSLint, to be included in every TypeScript project.",
   "main": "tslint.json",
   "repository": {
